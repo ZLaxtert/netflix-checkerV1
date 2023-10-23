@@ -14,8 +14,8 @@ Netflix Account checker Version 1 (update 23 Oct 2023 )(Show Type Acc, Show Paym
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/ZLaxtert/cc-checkerV3
-    $ cd cc-checkerV3
+    $ git clone https://github.com/ZLaxtert/netflix-checkerV1
+    $ cd netflix-checkerV1
     $ php cli.php
 
 ## NOTE
